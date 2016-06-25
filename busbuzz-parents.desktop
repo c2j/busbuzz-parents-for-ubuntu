@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Busbuzz Parents
+Exec=webapp-container --inspector ./www/index.html
+Icon=busbuzz-parents.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+

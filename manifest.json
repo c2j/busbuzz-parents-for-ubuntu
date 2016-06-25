@@ -4,14 +4,14 @@
     "architecture": "all",
     "title": "busbuzz-parents",
     "hooks": {
-        "busbuzzparents": {
-            "apparmor": "busbuzzparents.apparmor",
-            "desktop":  "busbuzzparents.desktop"
+        "busbuzz-parents": {
+            "apparmor": "busbuzz-parents.apparmor",
+            "desktop":  "busbuzz-parents.desktop"
         }
     },
     "version": "0.1",
     "maintainer": "Jianjun Chen <chenjj.yz@gmail.com>",
-    "framework" : "ubuntu-sdk-15.04"
+    "framework" : "ubuntu-sdk-15.04.5"
 }
 
 

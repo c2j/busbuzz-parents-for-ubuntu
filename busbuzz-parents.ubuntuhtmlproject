@@ -44,6 +44,10 @@ Project {
         filter: "*"
     }
     Files {
+        directory: "www/fonts/"
+        filter: "*"
+    }
+    Files {
         directory: "www/js/"
         filter: "*"
     }
