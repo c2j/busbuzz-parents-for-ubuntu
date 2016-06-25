@@ -1,0 +1,17 @@
+{
+    "name": "busbuzz-parents.c2j",
+    "description": "description of busbuzz-parents",
+    "architecture": "all",
+    "title": "busbuzz-parents",
+    "hooks": {
+        "busbuzzparents": {
+            "apparmor": "busbuzzparents.apparmor",
+            "desktop":  "busbuzzparents.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "Jianjun Chen <chenjj.yz@gmail.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+
